@@ -1,2 +1,3 @@
-# zshrc
-Some handy aliases
+# Configuration
+
+Useful configurations, shortcuts, aliases, etc.
